@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I build AI agent systems and the infrastructure around them. Recently: an agent platform for device management, and Inertia, a sprint analysis system with custom timing-gate hardware and a 3D pose pipeline. I also write about agents and language models.
+#### I build AI agent systems and the infrastructure around them. Recently: an agent platform for device management, and Inertia, a sprint analysis system with custom timing-gate hardware and a 3D pose pipeline. I also write about agents and language models.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
