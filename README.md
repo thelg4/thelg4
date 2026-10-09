@@ -1,8 +1,6 @@
 ## Hi there 👋
 ## Latest Blog Posts
 
----
-
 <!-- BLOG-POST-LIST:START -->
 - [The Loss-Averse Prisoner’s Dilemma: Teaching Agents to “Feel”* Betrayal](https://medium.com/@thelg4/the-loss-averse-prisoners-dilemma-teaching-ai-agents-to-feel-betrayal-e198dd7cccb5)
 - [The Sophisticated Barnum Effect: How AI Became the Ultimate Yes-Man](https://example.com/newest-post](https://medium.com/@thelg4/the-sophisticated-barnum-effect-how-ai-became-the-ultimate-yes-man-992a1dc68d78))
