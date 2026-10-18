@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-#### I build AI agent systems and the infrastructure around them. Recently: an agent platform for device management, and Inertia, a sprint analysis system with custom timing-gate hardware and a 3D pose pipeline. I also write about agents and language models.
+#### I build AI agent systems and the infrastructure around them. Recently: [Tandem](https://github.com/thelg4/tandem), a tool that shows what happens when Claude Code and Codex work on the same repo (who wrote what, what one agent reverted for the other, and what lasted); an agent platform for device management; and Inertia, a sprint analysis system with custom timing-gate hardware and a 3D pose pipeline. I also write about agents and language models.
 
 ## Latest Blog Posts
 
